@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Kuur 👋</b></h1>
 </p>
@@ -28,6 +28,8 @@
 - 💬 Ask me about web programming, I am ready to help :raised_hands:
 
 <br>
+<br>
+<br>
 
 ### Languages and Tools: 
 
@@ -50,13 +52,19 @@
 ### :zap: Github Stats
 <!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="60%" alt="Kuur's Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="37%" alt="Kuur's Github Stats">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="40%" alt="Kuur's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="50%" alt="Kuur's Github Stats">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### :zap: Recent Github Activity
-  
 <!--START_SECTION:activity-->
 1. ❌ Closed Project in Sistem Informasi Obat (SOBAT)
 2. 💪 Opened Project in Croms Life
@@ -68,21 +76,22 @@
 ### 📊 &nbsp; STATS
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm a nocturnal 🦇** 
-
-| | | | |
-| --- | --- | --- | --- |
+**Guess what, I'm a nocturnal 🦇** 
+| | | |
+| --- | --- | --- |
 |🌞 Morning                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|7.2%|
 |🌆 Daytime                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|18.8%|
 |🌃 Evening                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|45.4%|
 |🌙 Night                  |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|28.6%|
-| | | | |
+| | | |
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<br>
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Monday - Friday** 
-| | | | |
-| --- | --- | --- | --- |
+| | | |
+| --- | --- | --- |
 |Monday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
 |Tuesday                  |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|10.18%|
 |Wednesday                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
@@ -90,14 +99,18 @@
 |Friday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|13.46%|
 |Saturday                 |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|11.82%|
 |Sunday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|16.91%|
-| | | | |
+| | | |
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<br>
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My Programming 💖 Languages** 
-| | | | |
-| --- | --- | --- | --- |
+| | |
+| --- | --- |
 |HTML                 |6 repos|![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|82.72%|
 |Java                 |3 repos|![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|17.28%|
-| | | | |
+| | |
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+<br>
