@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/kurniadhn"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/kurniadhn"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dicky-kurnia-ramadhan-610361186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:dickynakiri@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:dickynakiri@gmail.com?subject=Hello%20Kuur"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -50,8 +50,8 @@
 ### :zap: Github Stats
 <!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight&count_private=true" width="60%" alt="Kuur's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&layout=compact&theme=nightowl" width="37%" alt="Kuur's Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="60%" alt="Kuur's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="37%" alt="Kuur's Top Languages">
 
 <br>
 
@@ -98,8 +98,8 @@
 **My Programming 💖 Languages** 
 
 | | | | |
-| --- | --- | --- |
-|HTML|6 repos|![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|Java                     |3 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
+| --- | --- | --- | --- |
+|HTML                 |6 repos|![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|82.72%|
+|Java                 |3 repos|![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|17.28%|
 
 <!--END_SECTION_LANGUAGE:readme-info-->
