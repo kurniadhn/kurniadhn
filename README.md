@@ -50,8 +50,8 @@
 ### :zap: Github Stats
 <!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="60%" alt="Kuur's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="37%" alt="Kuur's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="37%" alt="Kuur's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="60%" alt="Kuur's Github Stats">
 
 <br>
 
@@ -76,14 +76,13 @@
 |🌆 Daytime                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|18.8%|
 |🌃 Evening                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|45.4%|
 |🌙 Night                  |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|28.6%|
-
+| | | | |
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Monday - Friday** 
-
 | | | | |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 |Monday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
 |Tuesday                  |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|10.18%|
 |Wednesday                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
@@ -91,15 +90,14 @@
 |Friday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|13.46%|
 |Saturday                 |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|11.82%|
 |Sunday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|16.91%|
-
+| | | | |
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My Programming 💖 Languages** 
-
 | | | | |
 | --- | --- | --- | --- |
 |HTML                 |6 repos|![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|82.72%|
 |Java                 |3 repos|![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|17.28%|
-
+| | | | |
 <!--END_SECTION_LANGUAGE:readme-info-->
