@@ -1,4 +1,4 @@
- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <p>
   <h1 align="center"><b>Hello there, I'm Kuur 👋</b></h1>
 </p>
@@ -50,8 +50,8 @@
 ### :zap: Github Stats
 <!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="37%" alt="Kuur's Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="60%" alt="Kuur's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="60%" alt="Kuur's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="37%" alt="Kuur's Github Stats">
 
 <br>
 
