@@ -50,12 +50,8 @@
 ### :zap: Github Stats
 <!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<a href="javascript:void(0)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true">
-</a>
-<a href="javascript:void(0)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight&count_private=true" width="60%" alt="Kuur's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&layout=compact&theme=nightowl" width="37%" alt="Kuur's Top Languages">
 
 <br>
 
@@ -87,7 +83,7 @@
 📅 **I'm Most Productive on Monday - Friday** 
 
 | | | | |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 |Monday                   |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
 |Tuesday                  |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|10.18%|
 |Wednesday                |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
@@ -102,9 +98,8 @@
 **My Programming 💖 Languages** 
 
 | | | | |
-| --- | --- | --- | --- |
-|HTML                   |6 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+| --- | --- | --- |
+|HTML|6 repos|![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
 |Java                     |3 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|
 
 <!--END_SECTION_LANGUAGE:readme-info-->
