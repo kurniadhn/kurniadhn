@@ -1,24 +1,24 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
-  <h1 align="center"><b>Hello there, I'm Kuur 👋</b></h1>
+  <h1 align="center"><b>Hello there, It's me Kuur 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Why so hurry?"</b></h4>
+  <h4 align="center"><b>Why So Serious?</b></h4>
 </p>
 
 <p align="center">
-<br>
-<a href="https://www.facebook.com/kurniadhn"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/kurniadhn"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/dicky-kurnia-ramadhan-610361186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:dickynakiri@gmail.com?subject=Hello%20Kuur"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <a href="https://www.facebook.com/kurniadhn"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="https://instagram.com/kurniadhn"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dicky-kurnia-ramadhan-610361186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:dickynakiri@gmail.com?subject=Hello%20Kuur"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
+<br>
+<br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### I am a Web Developer
 - 🔭 Currently working on my Portfolio Website :grin:
@@ -32,7 +32,6 @@
 <br>
 
 ### Languages and Tools: 
-
 <img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,6 +42,7 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime Text" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+
 <br>
 <br>
 <br>
@@ -50,15 +50,11 @@
 
 
 ### :zap: Github Stats
-<!-- ![Kuur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="40%" alt="Kuur's Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="50%" alt="Kuur's Github Stats">
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadhn&theme=nightowl" width="45%" alt="Kuur's Top Languages">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kurniadhn&show_icons=true&theme=tokyonight" width="50%" alt="Kuur's Github Stats"> -->
+</p>
+
 <br>
 <br>
 <br>
