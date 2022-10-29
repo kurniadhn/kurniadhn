@@ -1,10 +1,10 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
-  <h1 align="center"><b>Hello there, It's me Kuur 👋</b></h1>
+  <h1 align="center"><b>Hi, It's me Kuur 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>Why So Serious?</b></h4>
+  <h4 align="center"><b>"Why So Hurry?"</b></h4>
 </p>
 
 <p align="center">
@@ -30,6 +30,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### Languages and Tools: 
 <img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
@@ -46,7 +48,6 @@
 <br>
 <br>
 <br>
-<br>
 
 
 ### :zap: Github Stats
@@ -58,7 +59,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
@@ -67,6 +67,7 @@
 <!-- 3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here) -->
 <!--END_SECTION:activity-->
 
+<br>
 <br>
 
 ### 📊 &nbsp; STATS
@@ -82,6 +83,7 @@
 | | | |
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
+<br>
 <br>
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -99,6 +101,7 @@
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <br>
+<br>
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My Programming 💖 Languages** 
@@ -109,4 +112,5 @@
 | | |
 <!--END_SECTION_LANGUAGE:readme-info-->
 
+<br>
 <br>
