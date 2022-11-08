@@ -63,7 +63,7 @@
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed Project in Sistem Informasi Obat (SOBAT)
-2. 💪 Opened Project in Croms Life
+2. 💪 Currently Opened Project in Internship
 <!-- 3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here) -->
 <!--END_SECTION:activity-->
 
