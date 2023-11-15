@@ -21,11 +21,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### I am a Web Developer
-- 🔭 Currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning about Laravel.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Graduate College on time.
-- 💬 Ask me about web programming, I am ready to help :raised_hands:
+- 🌱 Currently learning about Laravel.
+- 👯 Looking to collaborate with other Developers :wink:
+- 🥅 2024 Goals: Graduate and get my first official job.
+- 💬 Ask me about programming, ready to help :raised_hands:
 
 <br>
 <br>
